@@ -6,7 +6,7 @@
     <string name="btntxt">weiter</string>
     <string name="V_N">Vorname Nachname</string>
     <string-array name="anreden">
-        <item>Herr</item>
+        <item>Herr </item>
         <item>Frau</item>
     </string-array>
 
